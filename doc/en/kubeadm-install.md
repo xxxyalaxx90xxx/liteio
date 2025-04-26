@@ -76,4 +76,4 @@ kube-system    kube-apiserver-ip-172-26-10-67.ap-northeast-1.compute.internal   
 kube-system    kube-controller-manager-ip-172-26-10-67.ap-northeast-1.compute.internal   1/1     Running   0             139m
 kube-system    kube-proxy-zs75b                                                          1/1     Running   0             139m
 kube-system    kube-scheduler-ip-172-26-10-67.ap-northeast-1.compute.internal            1/1     Running   0             139m
-```
+`
